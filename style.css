@@ -157,7 +157,7 @@ article {
 }
 
 article h2 {
-    font-style: bold;
+    
     font-size: 18px;
     font-weight: 600;
     line-height: 22px;
@@ -183,7 +183,7 @@ footer {
     align-items: center;
 }
 .flexFooter a {
-    font-style: bold;
+    
     font-size: 14px;
     font-weight: 400;
 }
