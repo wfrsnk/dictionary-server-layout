@@ -19,7 +19,14 @@ a {
     text-decoration: none;
     color:#cacaca
 }
+ a:hover {
+    color: #fff;
+ }
 
+ button:hover {
+     background-color: #fff;
+     color: rgb(44, 55, 61);
+ }
 /* /////////////////////////////////// HEADER /////////////////////////////////// */
 
   header {
@@ -104,6 +111,7 @@ a {
     color: #fff;
     font-style: normal;
     font-size: 16px;
+    padding-left: 1vw;
   }
 
   .searchInput:focus {
@@ -119,6 +127,9 @@ a {
       border-radius: 0 5px 5px 0;
       width: 35px;
       height: 35px;
+  }
+  .searchContainer button:hover {
+      background-color: #fff;
   }
   .searchContainer button img {
     width: 25px;
